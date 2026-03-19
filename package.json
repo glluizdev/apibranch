@@ -1,0 +1,23 @@
+{
+  "name": "apibranch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glluizdev/apibranch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glluizdev/apibranch/issues"
+  },
+  "homepage": "https://github.com/glluizdev/apibranch#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
